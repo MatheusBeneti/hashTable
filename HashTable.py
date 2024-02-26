@@ -57,10 +57,6 @@ class HashTable:
                         file.write(line_values + '\n')
         except IOError:
             print("Erro ao escrever no arquivo.")
-
-    def reset(self):
-        self._table = [None] * 853
-        self._numberOfCollisions = 0
         
     def getNumberOfCollisions(self):
         return self._numberOfCollisions

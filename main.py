@@ -19,13 +19,13 @@ print("Número de colisões usando método da divisão: ", hashTable.getNumberOf
 hashTable.exportToFile("hashWithDivision.txt")
 print(hashTable.countAddresssWithCities())
 
-hashTable.reset()
+hashTable2 = HashTable()
 
 for city in cities:
-    hashTable.insertWithExtration(city, "Value: " + city)
-print("Número de colisões usando método da extração: ", hashTable.getNumberOfCollisions())
-hashTable.exportToFile("hashWithExtration.txt")
-print(hashTable.countAddresssWithCities())
+    hashTable2.insertWithExtration(city, "Value: " + city)
+print("Número de colisões usando método da extração: ", hashTable2.getNumberOfCollisions())
+hashTable2.exportToFile("hashWithExtration.txt")
+print(hashTable2.countAddresssWithCities())
 
 
 
