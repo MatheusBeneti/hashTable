@@ -1,0 +1,456 @@
+Córrego Fundo:Value: Córrego Fundo, Santa Margarida:Value: Santa Margarida
+Padre Paraíso:Value: Padre Paraíso, Santo Hipólito:Value: Santo Hipólito, Teófilo Otoni:Value: Teófilo Otoni
+Dom Silvério:Value: Dom Silvério
+Fernandes Tourinho:Value: Fernandes Tourinho
+Ewbank da Câmara:Value: Ewbank da Câmara, Jaguaraçu:Value: Jaguaraçu, Paraguaçu:Value: Paraguaçu, Sabinópolis:Value: Sabinópolis
+Conceição da Aparecida:Value: Conceição da Aparecida, Douradoquara:Value: Douradoquara, Ressaquinha:Value: Ressaquinha
+São João do Manhuaçu:Value: São João do Manhuaçu
+Alvorada de Minas:Value: Alvorada de Minas
+Carlos Chagas:Value: Carlos Chagas
+Capitão Andrade:Value: Capitão Andrade
+João Pinheiro:Value: João Pinheiro
+Dom Joaquim:Value: Dom Joaquim, Ponto dos Volantes:Value: Ponto dos Volantes
+Luminárias:Value: Luminárias, Serra da Saudade:Value: Serra da Saudade
+Ibitiúra de Minas:Value: Ibitiúra de Minas, Passa-Quatro:Value: Passa-Quatro
+Carmo de Minas:Value: Carmo de Minas
+Santana da Vargem:Value: Santana da Vargem
+Camanducaia:Value: Camanducaia, Senador Modestino Gonçalves:Value: Senador Modestino Gonçalves
+Cedro do Abaeté:Value: Cedro do Abaeté
+Virginópolis:Value: Virginópolis
+Campo do Meio:Value: Campo do Meio, Guaraciama:Value: Guaraciama, Martinho Campos:Value: Martinho Campos
+Uruana de Minas:Value: Uruana de Minas
+Morro da Garça:Value: Morro da Garça
+Carmo do Cajuru:Value: Carmo do Cajuru, Dom Viçoso:Value: Dom Viçoso, Veríssimo:Value: Veríssimo
+São Gonçalo do Rio Abaixo:Value: São Gonçalo do Rio Abaixo
+Cristiano Otoni:Value: Cristiano Otoni, Engenheiro Navarro:Value: Engenheiro Navarro
+São Bento Abade:Value: São Bento Abade
+Coronel Pacheco:Value: Coronel Pacheco, Santana do Riacho:Value: Santana do Riacho
+Divisópolis:Value: Divisópolis, Olhos-d'Água:Value: Olhos-d'Água
+Cascalho Rico:Value: Cascalho Rico, Doresópolis:Value: Doresópolis, Fortaleza de Minas:Value: Fortaleza de Minas, Josenópolis:Value: Josenópolis, Martins Soares:Value: Martins Soares, São Brás do Suaçuí:Value: São Brás do Suaçuí
+Iraí de Minas:Value: Iraí de Minas
+Cataguases:Value: Cataguases, Conselheiro Pena:Value: Conselheiro Pena, Jenipapo de Minas:Value: Jenipapo de Minas
+Imbé de Minas:Value: Imbé de Minas
+Matias Barbosa:Value: Matias Barbosa
+Pingo-d'Água:Value: Pingo-d'Água, Santana do Deserto:Value: Santana do Deserto
+São Sebastião do Oeste:Value: São Sebastião do Oeste
+Rio Piracicaba:Value: Rio Piracicaba
+Rochedo de Minas:Value: Rochedo de Minas
+Boa Esperança:Value: Boa Esperança
+Rio Pardo de Minas:Value: Rio Pardo de Minas
+Piedade de Ponte Nova:Value: Piedade de Ponte Nova, Prudente de Morais:Value: Prudente de Morais
+Congonhas do Norte:Value: Congonhas do Norte, Dores de Campos:Value: Dores de Campos
+Varjão de Minas:Value: Varjão de Minas
+Guaranésia:Value: Guaranésia
+Francisco Sá:Value: Francisco Sá
+Além Paraíba:Value: Além Paraíba
+Cabeceira Grande:Value: Cabeceira Grande, Caetanópolis:Value: Caetanópolis, João Monlevade:Value: João Monlevade, São Sebastião do Rio Verde:Value: São Sebastião do Rio Verde
+Presidente Bernardes:Value: Presidente Bernardes
+Dores do Indaiá:Value: Dores do Indaiá
+Alto Jequitibá:Value: Alto Jequitibá, Itatiaiuçu:Value: Itatiaiuçu
+Dona Eusébia:Value: Dona Eusébia
+São Sebastião do Rio Preto:Value: São Sebastião do Rio Preto
+Lagoa Formosa:Value: Lagoa Formosa
+Fronteira dos Vales:Value: Fronteira dos Vales
+Santa Cruz de Minas:Value: Santa Cruz de Minas, Santa Rita de Caldas:Value: Santa Rita de Caldas
+Lagoa dos Patos:Value: Lagoa dos Patos
+Marmelópolis:Value: Marmelópolis, Serra Azul de Minas:Value: Serra Azul de Minas, Simonésia:Value: Simonésia
+Olímpio Noronha:Value: Olímpio Noronha
+Bom Sucesso:Value: Bom Sucesso
+Bom Jesus da Penha:Value: Bom Jesus da Penha, Francisco Dumont:Value: Francisco Dumont
+Eugenópolis:Value: Eugenópolis, Silvianópolis:Value: Silvianópolis
+Couto de Magalhães de Minas:Value: Couto de Magalhães de Minas, Engenheiro Caldas:Value: Engenheiro Caldas
+Cachoeira da Prata:Value: Cachoeira da Prata
+Luz:Value: Luz
+Santo Antônio do Monte:Value: Santo Antônio do Monte
+Santa Rita de Minas:Value: Santa Rita de Minas
+Cachoeira de Pajeú:Value: Cachoeira de Pajeú
+Santa Rosa da Serra:Value: Santa Rosa da Serra
+São Romão:Value: São Romão
+Santana de Pirapama:Value: Santana de Pirapama, Senhora de Oliveira:Value: Senhora de Oliveira
+Antônio Prado de Minas:Value: Antônio Prado de Minas
+Conceição da Barra de Minas:Value: Conceição da Barra de Minas
+Carmo do Rio Claro:Value: Carmo do Rio Claro
+Campos Gerais:Value: Campos Gerais, Paraisópolis:Value: Paraisópolis, Soledade de Minas:Value: Soledade de Minas
+Matias Cardoso:Value: Matias Cardoso, Santa Rita do Itueto:Value: Santa Rita do Itueto
+Estrela do Indaiá:Value: Estrela do Indaiá
+Entre Rios de Minas:Value: Entre Rios de Minas
+Governador Valadares:Value: Governador Valadares
+Água Comprida:Value: Água Comprida, Conceição das Alagoas:Value: Conceição das Alagoas, Maripá de Minas:Value: Maripá de Minas
+Piedade do Rio Grande:Value: Piedade do Rio Grande, Santo Antônio do Retiro:Value: Santo Antônio do Retiro
+Barão de Monte Alto:Value: Barão de Monte Alto
+Bocaina de Minas:Value: Bocaina de Minas, Coronel Fabriciano:Value: Coronel Fabriciano, Cruzeiro da Fortaleza:Value: Cruzeiro da Fortaleza, Ouro Verde de Minas:Value: Ouro Verde de Minas, Santana dos Montes:Value: Santana dos Montes
+Santa Fé de Minas:Value: Santa Fé de Minas
+Bela Vista de Minas:Value: Bela Vista de Minas
+Santana do Jacaré:Value: Santana do Jacaré
+Brasilândia de Minas:Value: Brasilândia de Minas
+Mário Campos:Value: Mário Campos
+Divinolândia de Minas:Value: Divinolândia de Minas
+São Sebastião da Bela Vista:Value: São Sebastião da Bela Vista
+União de Minas:Value: União de Minas
+Limeira do Oeste:Value: Limeira do Oeste
+Bom Jardim de Minas:Value: Bom Jardim de Minas
+Desterro de Entre Rios:Value: Desterro de Entre Rios, São Gonçalo do Sapucaí:Value: São Gonçalo do Sapucaí
+Onça de Pitangui:Value: Onça de Pitangui
+Simão Pereira:Value: Simão Pereira
+Augusto de Lima:Value: Augusto de Lima
+Poços de Caldas:Value: Poços de Caldas
+Prata:Value: Prata, São Francisco:Value: São Francisco
+Delta:Value: Delta
+Santa Maria do Salto:Value: Santa Maria do Salto
+Santo Antônio do Grama:Value: Santo Antônio do Grama
+Bom Jesus do Galho:Value: Bom Jesus do Galho, São João Batista do Glória:Value: São João Batista do Glória
+Santa Cruz de Salinas:Value: Santa Cruz de Salinas
+Lontra:Value: Lontra
+Francisco Badaró:Value: Francisco Badaró, Senador José Bento:Value: Senador José Bento
+Santo Antônio do Amparo:Value: Santo Antônio do Amparo
+Frutal:Value: Frutal
+Consolação:Value: Consolação
+Pedras de Maria da Cruz:Value: Pedras de Maria da Cruz, Piedade de Caratinga:Value: Piedade de Caratinga, Ribeirão Vermelho:Value: Ribeirão Vermelho, Santa Helena de Minas:Value: Santa Helena de Minas
+Coronel Xavier Chaves:Value: Coronel Xavier Chaves, Itamarati de Minas:Value: Itamarati de Minas
+Monte Santo de Minas:Value: Monte Santo de Minas
+Três Corações:Value: Três Corações
+Morada Nova de Minas:Value: Morada Nova de Minas
+Franciscópolis:Value: Franciscópolis
+São Lourenço:Value: São Lourenço
+Santo Antônio do Jacinto:Value: Santo Antônio do Jacinto
+Icaraí de Minas:Value: Icaraí de Minas
+Cachoeira Dourada:Value: Cachoeira Dourada
+São João das Missões:Value: São João das Missões
+Comendador Gomes:Value: Comendador Gomes, Novo Oriente de Minas:Value: Novo Oriente de Minas
+Piedade dos Gerais:Value: Piedade dos Gerais
+Carmo do Paranaíba:Value: Carmo do Paranaíba, Ipaba:Value: Ipaba, Itambé do Mato Dentro:Value: Itambé do Mato Dentro, Itaúna:Value: Itaúna
+Capitão Enéas:Value: Capitão Enéas
+Santa Bárbara do Leste:Value: Santa Bárbara do Leste
+Alfredo Vasconcelos:Value: Alfredo Vasconcelos
+Santa Maria de Itabira:Value: Santa Maria de Itabira
+São Sebastião do Maranhão:Value: São Sebastião do Maranhão
+Barão de Cocais:Value: Barão de Cocais
+Iapu:Value: Iapu
+Abadia dos Dourados:Value: Abadia dos Dourados
+Santana do Paraíso:Value: Santana do Paraíso
+Janaúba:Value: Janaúba, Laranjal:Value: Laranjal
+Divino das Laranjeiras:Value: Divino das Laranjeiras
+Brasília de Minas:Value: Brasília de Minas
+Águas Vermelhas:Value: Águas Vermelhas, Pedralva:Value: Pedralva, Serro:Value: Serro, Vazante:Value: Vazante
+Lajinha:Value: Lajinha, Paiva:Value: Paiva, Piraúba:Value: Piraúba, Pratinha:Value: Pratinha, Tapira:Value: Tapira
+Monte Alegre de Minas:Value: Monte Alegre de Minas
+Berizal:Value: Berizal, Dores de Guanhães:Value: Dores de Guanhães, Fama:Value: Fama, Palma:Value: Palma
+Carmo da Cachoeira:Value: Carmo da Cachoeira, Japonvar:Value: Japonvar, Munhoz:Value: Munhoz
+Santa Cruz do Escalvado:Value: Santa Cruz do Escalvado
+Bom Jesus do Amparo:Value: Bom Jesus do Amparo
+Braúnas:Value: Braúnas, Datas:Value: Datas, Lavras:Value: Lavras
+Ubá:Value: Ubá
+Baldim:Value: Baldim, Planura:Value: Planura
+Visconde do Rio Branco:Value: Visconde do Rio Branco
+Jordânia:Value: Jordânia
+Betim:Value: Betim
+Berilo:Value: Berilo, Pains:Value: Pains, Patis:Value: Patis, Santa Rita de Ibitipoca:Value: Santa Rita de Ibitipoca
+Presidente Juscelino:Value: Presidente Juscelino, São José da Barra:Value: São José da Barra, São José da Lapa:Value: São José da Lapa, Sapucaí-Mirim:Value: Sapucaí-Mirim
+Cachoeira de Minas:Value: Cachoeira de Minas, Piau:Value: Piau
+Bugre:Value: Bugre, Divino:Value: Divino
+São Sebastião do Paraíso:Value: São Sebastião do Paraíso
+Prados:Value: Prados, Toledo:Value: Toledo
+Bonfim:Value: Bonfim, Ribeirão das Neves:Value: Ribeirão das Neves
+São João da Ponte:Value: São João da Ponte
+Ferros:Value: Ferros
+Reduto:Value: Reduto
+Rubim:Value: Rubim, Tiros:Value: Tiros
+São Pedro dos Ferros:Value: São Pedro dos Ferros
+Santo Antônio do Itambé:Value: Santo Antônio do Itambé
+Poté:Value: Poté, São Miguel do Anta:Value: São Miguel do Anta
+Santa Rita de Jacutinga:Value: Santa Rita de Jacutinga
+Madre de Deus de Minas:Value: Madre de Deus de Minas
+Santana do Garambéu:Value: Santana do Garambéu
+Claraval:Value: Claraval
+Conselheiro Lafaiete:Value: Conselheiro Lafaiete
+Vargem Grande do Rio Pardo:Value: Vargem Grande do Rio Pardo
+Arantina:Value: Arantina
+Albertina:Value: Albertina, Andrelândia:Value: Andrelândia, Itapeva:Value: Itapeva, Santana do Manhuaçu:Value: Santana do Manhuaçu
+São João del-Rei:Value: São João del-Rei
+Itabira:Value: Itabira, Mantena:Value: Mantena
+Andradas:Value: Andradas, Areado:Value: Areado, Ijaci:Value: Ijaci, Manga:Value: Manga, Nova Era:Value: Nova Era
+Caldas:Value: Caldas, Extrema:Value: Extrema, Inhaúma:Value: Inhaúma
+Alfenas:Value: Alfenas, Itinga:Value: Itinga, Olaria:Value: Olaria
+Chiador:Value: Chiador, Medina:Value: Medina, Pedra Azul:Value: Pedra Azul, Uberaba:Value: Uberaba
+Riacho dos Machados:Value: Riacho dos Machados
+Inhapim:Value: Inhapim, Itanhandu:Value: Itanhandu
+São João da Mata:Value: São João da Mata
+Cajuri:Value: Cajuri, Catuji:Value: Catuji, Catuti:Value: Catuti, Estiva:Value: Estiva, Moeda:Value: Moeda, Orizânia:Value: Orizânia
+Araxá:Value: Araxá
+Araújos:Value: Araújos, Itueta:Value: Itueta, Uberlândia:Value: Uberlândia
+Presidente Kubitschek:Value: Presidente Kubitschek
+Arcos:Value: Arcos, Santa Bárbara do Tugúrio:Value: Santa Bárbara do Tugúrio
+Coluna:Value: Coluna, Ipuiúna:Value: Ipuiúna, Mercês:Value: Mercês, Sarzedo:Value: Sarzedo, Serra dos Aimorés:Value: Serra dos Aimorés
+Corinto:Value: Corinto, Presidente Olegário:Value: Presidente Olegário
+Arinos:Value: Arinos, Curvelo:Value: Curvelo, Ladainha:Value: Ladainha, Natalândia:Value: Natalândia
+Chalé:Value: Chalé
+Confins:Value: Confins, Santa Efigênia de Minas:Value: Santa Efigênia de Minas
+Bandeira:Value: Bandeira, Varzelândia:Value: Varzelândia
+São Félix de Minas:Value: São Félix de Minas
+Piranga:Value: Piranga, Varginha:Value: Varginha
+Ibiá:Value: Ibiá
+Baependi:Value: Baependi, Liberdade:Value: Liberdade, Minduri:Value: Minduri, Verdelândia:Value: Verdelândia, Veredinha:Value: Veredinha
+São Pedro da União:Value: São Pedro da União
+Nazareno:Value: Nazareno
+Felixlândia:Value: Felixlândia, Lambari:Value: Lambari, Ninheira:Value: Ninheira, Pocrane:Value: Pocrane, Taparuba:Value: Taparuba
+Belo Vale:Value: Belo Vale, Pirapora:Value: Pirapora
+Jacinto:Value: Jacinto, Pimenta:Value: Pimenta
+Fronteira:Value: Fronteira, Pai Pedro:Value: Pai Pedro
+Bicas:Value: Bicas, Pirajuba:Value: Pirajuba
+Ubaí:Value: Ubaí, Unaí:Value: Unaí
+Lamim:Value: Lamim, Mutum:Value: Mutum, Nova Ponte:Value: Nova Ponte, Ponte Nova:Value: Ponte Nova, Rubelita:Value: Rubelita
+Perdizes:Value: Perdizes
+Florestal:Value: Florestal, Funilândia:Value: Funilândia, Santo Antônio do Rio Abaixo:Value: Santo Antônio do Rio Abaixo
+Catas Altas da Noruega:Value: Catas Altas da Noruega
+Juatuba:Value: Juatuba, Naque:Value: Naque, Resplendor:Value: Resplendor, Rio Preto:Value: Rio Preto, Rodeiro:Value: Rodeiro, Rosário da Limeira:Value: Rosário da Limeira
+Águas Formosas:Value: Águas Formosas, Santo Antônio do Aventureiro:Value: Santo Antônio do Aventureiro, Turvolândia:Value: Turvolândia
+Jaíba:Value: Jaíba, São Sebastião da Vargem Alegre:Value: São Sebastião da Vargem Alegre
+Bonfinópolis de Minas:Value: Bonfinópolis de Minas, Felício dos Santos:Value: Felício dos Santos
+Barroso:Value: Barroso
+Pavão:Value: Pavão
+Pequi:Value: Pequi, Piumhi:Value: Piumhi
+Botelhos:Value: Botelhos, Rio Novo:Value: Rio Novo, Três Pontas:Value: Três Pontas
+Buritis:Value: Buritis
+Santa Bárbara do Monte Verde:Value: Santa Bárbara do Monte Verde
+Tombos:Value: Tombos
+Durandé:Value: Durandé
+São Geraldo da Piedade:Value: São Geraldo da Piedade
+Claro dos Poções:Value: Claro dos Poções
+Joaquim Felício:Value: Joaquim Felício
+Alpercata:Value: Alpercata, São José do Divino:Value: São José do Divino
+Alvarenga:Value: Alvarenga, Caiana:Value: Caiana, Cana Verde:Value: Cana Verde
+Itaverava:Value: Itaverava
+Campanha:Value: Campanha, Capelinha:Value: Capelinha, Centralina:Value: Centralina, Santa Rita do Sapucaí:Value: Santa Rita do Sapucaí
+Almenara:Value: Almenara, São Vicente de Minas:Value: São Vicente de Minas
+Angelândia:Value: Angelândia, Monte Azul:Value: Monte Azul, Pedra do Anta:Value: Pedra do Anta
+Alagoa:Value: Alagoa, Araponga:Value: Araponga, Mariana:Value: Mariana, Mata Verde:Value: Mata Verde
+Argirita:Value: Argirita, Ipatinga:Value: Ipatinga, Marilac:Value: Marilac
+Cabo Verde:Value: Cabo Verde, Carbonita:Value: Carbonita, Ipanema:Value: Ipanema, Itabirinha:Value: Itabirinha, Materlândia:Value: Materlândia, Mirabela:Value: Mirabela, São Geraldo do Baixio:Value: São Geraldo do Baixio, Volta Grande:Value: Volta Grande
+Gonzaga:Value: Gonzaga, Ibiraci:Value: Ibiraci
+Cipotânea:Value: Cipotânea, Machado:Value: Machado, Miravânia:Value: Miravânia
+Caputira:Value: Caputira, Serrania:Value: Serrania
+Aguanil:Value: Aguanil, Carvalhos:Value: Carvalhos, Caxambu:Value: Caxambu, Grupiara:Value: Grupiara, Guarani:Value: Guarani, Mato Verde:Value: Mato Verde, Montalvânia:Value: Montalvânia, Oliveira:Value: Oliveira
+Canaã:Value: Canaã
+Alterosa:Value: Alterosa, Carmópolis de Minas:Value: Carmópolis de Minas, Coimbra:Value: Coimbra, Congonhal:Value: Congonhal, Cristina:Value: Cristina
+Barbacena:Value: Barbacena, Itabirito:Value: Itabirito, Itamonte:Value: Itamonte
+Entre Folhas:Value: Entre Folhas, Iturama:Value: Iturama, Matutina:Value: Matutina
+Itanhomi:Value: Itanhomi, Itaobim:Value: Itaobim, Itutinga:Value: Itutinga, Jeceaba:Value: Jeceaba, Moema:Value: Moema
+Abaeté:Value: Abaeté, Ervália:Value: Ervália
+Salinas:Value: Salinas, Serranópolis de Minas:Value: Serranópolis de Minas
+Caeté:Value: Caeté, Caraí:Value: Caraí
+Araporã:Value: Araporã
+Guidoval:Value: Guidoval, Monte Belo:Value: Monte Belo
+Sabará:Value: Sabará
+Lagamar:Value: Lagamar, Paraopeba:Value: Paraopeba, Setubinha:Value: Setubinha, Urucânia:Value: Urucânia
+Arapuá:Value: Arapuá
+Barra Longa:Value: Barra Longa, São Roque de Minas:Value: São Roque de Minas
+São José da Safira:Value: São José da Safira
+Paracatu:Value: Paracatu, Serranos:Value: Serranos
+Itaipé:Value: Itaipé, São José do Alegre:Value: São José do Alegre
+Ibituruna:Value: Ibituruna
+Ingaí:Value: Ingaí
+Pedra Bonita:Value: Pedra Bonita, Taquaraçu de Minas:Value: Taquaraçu de Minas
+Ibiaí:Value: Ibiaí, Itajubá:Value: Itajubá
+São João do Oriente:Value: São João do Oriente
+Ibirité:Value: Ibirité, Miraí:Value: Miraí, Sardoá:Value: Sardoá
+Recreio:Value: Recreio, Riachinho:Value: Riachinho
+Guapé:Value: Guapé
+Jampruca:Value: Jampruca, Nova Lima:Value: Nova Lima, Ouro Preto:Value: Ouro Preto, Porteirinha:Value: Porteirinha, Romaria:Value: Romaria, Tiradentes:Value: Tiradentes
+Virgolândia:Value: Virgolândia
+Matipó:Value: Matipó, São João da Lagoa:Value: São João da Lagoa
+Ouro Fino:Value: Ouro Fino, Pescador:Value: Pescador, Vieiras:Value: Vieiras
+Formiga:Value: Formiga, Heliodora:Value: Heliodora, Leopoldina:Value: Leopoldina, Monjolos:Value: Monjolos, Turmalina:Value: Turmalina
+Diogo de Vasconcelos:Value: Diogo de Vasconcelos, Peçanha:Value: Peçanha, São José da Varginha:Value: São José da Varginha
+Pitangui:Value: Pitangui, Rio Doce:Value: Rio Doce, São Domingos do Prata:Value: São Domingos do Prata, Tocantins:Value: Tocantins
+Juiz de Fora:Value: Juiz de Fora, Santana de Cataguases:Value: Santana de Cataguases, Tabuleiro:Value: Tabuleiro
+Juruaia:Value: Juruaia, Rio Pomba:Value: Rio Pomba
+Jesuânia:Value: Jesuânia, Juramento:Value: Juramento, Rio do Prado:Value: Rio do Prado
+Tapiraí:Value: Tapiraí
+Jequeri:Value: Jequeri, Pequeri:Value: Pequeri, Porto Firme:Value: Porto Firme
+Brumadinho:Value: Brumadinho, Luislândia:Value: Luislândia, Novorizonte:Value: Novorizonte, Senhora dos Remédios:Value: Senhora dos Remédios
+Coração de Jesus:Value: Coração de Jesus
+Fervedouro:Value: Fervedouro
+Nanuque:Value: Nanuque
+São Thomé das Letras:Value: São Thomé das Letras
+Raposos:Value: Raposos
+Jacuí:Value: Jacuí
+Córrego do Bom Jesus:Value: Córrego do Bom Jesus
+Passos:Value: Passos
+São José do Jacuri:Value: São José do Jacuri
+Formoso:Value: Formoso
+Aracitaba:Value: Aracitaba, Bambuí:Value: Bambuí
+Perdões:Value: Perdões
+Campo Azul:Value: Campo Azul, Caratinga:Value: Caratinga
+Capela Nova:Value: Capela Nova, Capetinga:Value: Capetinga, Padre Carvalho:Value: Padre Carvalho, Pompéu:Value: Pompéu
+Cantagalo:Value: Cantagalo, Carangola:Value: Carangola, Carrancas:Value: Carrancas
+Indaiabira:Value: Indaiabira
+Borda da Mata:Value: Borda da Mata, Estrela Dalva:Value: Estrela Dalva, Galileia:Value: Galileia, Itapagipe:Value: Itapagipe
+Aricanduva:Value: Aricanduva, Camacho:Value: Camacho
+Candeias:Value: Candeias
+Araguari:Value: Araguari, Itaguara:Value: Itaguara
+Chácara:Value: Chácara
+Carneirinho:Value: Carneirinho, Dom Cavati:Value: Dom Cavati, Frei Gaspar:Value: Frei Gaspar, Nova Serrana:Value: Nova Serrana
+Contagem:Value: Contagem, Espera Feliz:Value: Espera Feliz, Ibiracatu:Value: Ibiracatu, Maravilhas:Value: Maravilhas
+Campestre:Value: Campestre, Coroaci:Value: Coroaci, Crucilândia:Value: Crucilândia, Ibertioga:Value: Ibertioga, Sericita:Value: Sericita, Ubaporanga:Value: Ubaporanga
+Curral de Dentro:Value: Curral de Dentro, Paula Cândido:Value: Paula Cândido, Seritinga:Value: Seritinga
+Abre-Campo:Value: Abre-Campo, Carandaí:Value: Carandaí
+Arceburgo:Value: Arceburgo, Campo Belo:Value: Campo Belo, Coromandel:Value: Coromandel, Santa Luzia:Value: Santa Luzia, Silveirânia:Value: Silveirânia
+Ataléia:Value: Ataléia
+Antônio Dias:Value: Antônio Dias, Belo Oriente:Value: Belo Oriente, Inimutaba:Value: Inimutaba, Itamogi:Value: Itamogi, Rio Espera:Value: Rio Espera
+Cordislândia:Value: Cordislândia
+Caparaó:Value: Caparaó
+Gouveia:Value: Gouveia
+Igarapé:Value: Igarapé
+Congonhas:Value: Congonhas, Cristais:Value: Cristais
+São João do Manteninha:Value: São João do Manteninha
+Ituiutaba:Value: Ituiutaba, Mamonas:Value: Mamonas, São Francisco de Paula:Value: São Francisco de Paula, Três Marias:Value: Três Marias
+Guarará:Value: Guarará
+Piracema:Value: Piracema, Pirapetinga:Value: Pirapetinga
+Goianá:Value: Goianá
+Diamantina:Value: Diamantina, Medeiros:Value: Medeiros, Umburatiba:Value: Umburatiba
+Espinosa:Value: Espinosa, Montezuma:Value: Montezuma, Morro do Pilar:Value: Morro do Pilar
+Ouro Branco:Value: Ouro Branco
+Guarda-Mor:Value: Guarda-Mor
+Astolfo Dutra:Value: Astolfo Dutra, Matozinhos:Value: Matozinhos, Muzambinho:Value: Muzambinho, Nacip Raydan:Value: Nacip Raydan, Rio Manso:Value: Rio Manso
+Gurinhatã:Value: Gurinhatã
+Itumirim:Value: Itumirim, Jacutinga:Value: Jacutinga, Miradouro:Value: Miradouro
+São José do Goiabal:Value: São José do Goiabal
+Paineiras:Value: Paineiras, Pedra Dourada:Value: Pedra Dourada, Urucuia:Value: Urucuia
+Sobrália:Value: Sobrália
+Espírito Santo do Dourado:Value: Espírito Santo do Dourado, Fruta de Leite:Value: Fruta de Leite, São Gonçalo do Pará:Value: São Gonçalo do Pará
+Cruzília:Value: Cruzília, Ipiaçu:Value: Ipiaçu
+Lassance:Value: Lassance, Teixeiras:Value: Teixeiras
+Cláudio:Value: Cláudio, Japaraíba:Value: Japaraíba
+Bocaiuva:Value: Bocaiuva, Lima Duarte:Value: Lima Duarte, Nova Resende:Value: Nova Resende
+Cambuí:Value: Cambuí
+Muriaé:Value: Muriaé
+Divisa Nova:Value: Divisa Nova, Leme do Prado:Value: Leme do Prado, Pouso Alto:Value: Pouso Alto
+Natércia:Value: Natércia
+Conceição do Pará:Value: Conceição do Pará, Queluzito:Value: Queluzito
+Guaxupé:Value: Guaxupé
+Descoberto:Value: Descoberto, Piranguinho:Value: Piranguinho, Rio Vermelho:Value: Rio Vermelho
+Belo Horizonte:Value: Belo Horizonte
+Januária:Value: Januária
+Tarumirim:Value: Tarumirim
+Bias Fortes:Value: Bias Fortes, Buritizeiro:Value: Buritizeiro, Vermelho Novo:Value: Vermelho Novo
+Casa Grande:Value: Casa Grande, Sem-Peixe:Value: Sem-Peixe
+Paulistas:Value: Paulistas, Pedro Leopoldo:Value: Pedro Leopoldo
+Patrocínio do Muriaé:Value: Patrocínio do Muriaé, Perdigão:Value: Perdigão, Virgínia:Value: Virgínia
+Joaíma:Value: Joaíma, Nova Belém:Value: Nova Belém
+Biquinhas:Value: Biquinhas, Felisburgo:Value: Felisburgo, Periquito:Value: Periquito
+Catas Altas:Value: Catas Altas, Mar de Espanha:Value: Mar de Espanha, Pratápolis:Value: Pratápolis
+Botumirim:Value: Botumirim, Dom Bosco:Value: Dom Bosco
+Juvenília:Value: Juvenília
+Acaiaca:Value: Acaiaca, Viçosa:Value: Viçosa
+Brás Pires:Value: Brás Pires, Ritápolis:Value: Ritápolis
+Itaú de Minas:Value: Itaú de Minas, Quartel Geral:Value: Quartel Geral
+Dores do Turvo:Value: Dores do Turvo
+Luisburgo:Value: Luisburgo
+Timóteo:Value: Timóteo
+Antônio Carlos:Value: Antônio Carlos
+Bertópolis:Value: Bertópolis, Igaratinga:Value: Igaratinga, Itamarandiba:Value: Itamarandiba, Passa-Vinte:Value: Passa-Vinte
+Campina Verde:Value: Campina Verde, Itacambira:Value: Itacambira, Itacarambi:Value: Itacarambi, Lagoa Grande:Value: Lagoa Grande
+São João do Pacuí:Value: São João do Pacuí
+Pintópolis:Value: Pintópolis
+São Sebastião do Anta:Value: São Sebastião do Anta
+Chapada do Norte:Value: Chapada do Norte, Coronel Murta:Value: Coronel Murta, Poço Fundo:Value: Poço Fundo
+Capim Branco:Value: Capim Branco, Lagoa Santa:Value: Lagoa Santa
+Goiabeira:Value: Goiabeira
+Glaucilândia:Value: Glaucilândia, Rio Acima:Value: Rio Acima, Rio Casca:Value: Rio Casca, São Francisco de Sales:Value: São Francisco de Sales
+Caranaíba:Value: Caranaíba
+Estrela do Sul:Value: Estrela do Sul, Iguatama:Value: Iguatama, Santa Juliana:Value: Santa Juliana
+Santa Bárbara:Value: Santa Bárbara
+Itambacuri:Value: Itambacuri, Sacramento:Value: Sacramento
+Lagoa da Prata:Value: Lagoa da Prata
+Guimarânia:Value: Guimarânia
+Alto Rio Doce:Value: Alto Rio Doce, Comercinho:Value: Comercinho, Esmeraldas:Value: Esmeraldas
+São João Evangelista:Value: São João Evangelista
+Inconfidentes:Value: Inconfidentes
+Maria da Fé:Value: Maria da Fé
+Cuparaque:Value: Cuparaque, Virgem da Lapa:Value: Virgem da Lapa
+Açucena:Value: Açucena, Careaçu:Value: Careaçu
+Aiuruoca:Value: Aiuruoca, Bandeira do Sul:Value: Bandeira do Sul, Campo Florido:Value: Campo Florido, Coqueiral:Value: Coqueiral
+Ilicínea:Value: Ilicínea
+Leandro Ferreira:Value: Leandro Ferreira
+Cristália:Value: Cristália, Marliéria:Value: Marliéria
+Minas Novas:Value: Minas Novas
+Água Boa:Value: Água Boa
+Manhumirim:Value: Manhumirim
+Canápolis:Value: Canápolis
+Pedro Teixeira:Value: Pedro Teixeira, Raul Soares:Value: Raul Soares
+Chapada Gaúcha:Value: Chapada Gaúcha
+Belmiro Braga:Value: Belmiro Braga, Novo Cruzeiro:Value: Novo Cruzeiro, Vargem Bonita:Value: Vargem Bonita
+Cássia:Value: Cássia, Conceição das Pedras:Value: Conceição das Pedras
+Conquista:Value: Conquista, Mesquita:Value: Mesquita, Papagaios:Value: Papagaios, Ponto Chique:Value: Ponto Chique, Senhora do Porto:Value: Senhora do Porto
+Gonçalves:Value: Gonçalves
+Araçaí:Value: Araçaí, Nova Porteirinha:Value: Nova Porteirinha
+Capitólio:Value: Capitólio, Conceição do Rio Verde:Value: Conceição do Rio Verde, Guanhães:Value: Guanhães, São Gonçalo do Rio Preto:Value: São Gonçalo do Rio Preto
+Cordisburgo:Value: Cordisburgo
+Taiobeiras:Value: Taiobeiras
+Crisólita:Value: Crisólita
+Faria Lemos:Value: Faria Lemos
+Manhuaçu:Value: Manhuaçu, Nova União:Value: Nova União
+São Joaquim de Bicas:Value: São Joaquim de Bicas
+Aimorés:Value: Aimorés, São José do Mantimento:Value: São José do Mantimento
+São Tomás de Aquino:Value: São Tomás de Aquino
+Tumiritinga:Value: Tumiritinga, Vespasiano:Value: Vespasiano
+Bom Despacho:Value: Bom Despacho, Santos Dumont:Value: Santos Dumont
+Alpinópolis:Value: Alpinópolis, Alvinópolis:Value: Alvinópolis
+Passa Tempo:Value: Passa Tempo
+Jequitinhonha:Value: Jequitinhonha, Nepomuceno:Value: Nepomuceno
+Oratórios:Value: Oratórios
+Carmo da Mata:Value: Carmo da Mata
+Joanésia:Value: Joanésia
+Amparo da Serra:Value: Amparo da Serra, Central de Minas:Value: Central de Minas, Divinésia:Value: Divinésia, Patrocínio:Value: Patrocínio, Senador Amaral:Value: Senador Amaral
+São Domingos das Dores:Value: São Domingos das Dores
+Bueno Brandão:Value: Bueno Brandão, Malacacheta:Value: Malacacheta
+Jequitibá:Value: Jequitibá, Passabém:Value: Passabém, São João Nepomuceno:Value: São João Nepomuceno
+Jequitaí:Value: Jequitaí, Piranguçu:Value: Piranguçu
+Cônego Marinho:Value: Cônego Marinho, Itapecerica:Value: Itapecerica
+São Pedro do Suaçuí:Value: São Pedro do Suaçuí
+José Raydan:Value: José Raydan, Monte Carmelo:Value: Monte Carmelo
+Bom Repouso:Value: Bom Repouso
+Alto Caparaó:Value: Alto Caparaó, Conceição de Ipanema:Value: Conceição de Ipanema
+Serra do Salitre:Value: Serra do Salitre
+Delfinópolis:Value: Delfinópolis, Guaraciaba:Value: Guaraciaba, Palmópolis:Value: Palmópolis, Pedrinópolis:Value: Pedrinópolis, Vargem Alegre:Value: Vargem Alegre
+Dionísio:Value: Dionísio, Divinópolis:Value: Divinópolis
+São João do Paraíso:Value: São João do Paraíso
+Brasópolis:Value: Brasópolis, Machacalis:Value: Machacalis, Senador Cortes:Value: Senador Cortes
+Campos Altos:Value: Campos Altos
+Buenópolis:Value: Buenópolis, Divisa Alegre:Value: Divisa Alegre
+Santa Maria do Suaçuí:Value: Santa Maria do Suaçuí
+Montes Claros:Value: Montes Claros
+Gameleiras:Value: Gameleiras, São Gonçalo do Abaeté:Value: São Gonçalo do Abaeté
+São Geraldo:Value: São Geraldo
+Frei Inocêncio:Value: Frei Inocêncio, Guiricema:Value: Guiricema
+Delfim Moreira:Value: Delfim Moreira
+Conceição do Mato Dentro:Value: Conceição do Mato Dentro
+Resende Costa:Value: Resende Costa, Sete Lagoas:Value: Sete Lagoas
+Pedra do Indaiá:Value: Pedra do Indaiá
+Mathias Lobato:Value: Mathias Lobato, Mendes Pimentel:Value: Mendes Pimentel, Salto da Divisa:Value: Salto da Divisa
+Campanário:Value: Campanário, Elói Mendes:Value: Elói Mendes, Grão Mogol:Value: Grão Mogol, São Gotardo:Value: São Gotardo
+Oliveira Fortes:Value: Oliveira Fortes, Wenceslau Braz:Value: Wenceslau Braz
+Monte Sião:Value: Monte Sião
+Pará de Minas:Value: Pará de Minas
+Mateus Leme:Value: Mateus Leme, Patos de Minas:Value: Patos de Minas
+Córrego Danta:Value: Córrego Danta
+Fortuna de Minas:Value: Fortuna de Minas
+São Francisco do Glória:Value: São Francisco do Glória
+Bonito de Minas:Value: Bonito de Minas, Cambuquira:Value: Cambuquira, Senador Firmino:Value: Senador Firmino
+Carmésia:Value: Carmésia, Várzea da Palma:Value: Várzea da Palma
+Pouso Alegre:Value: Pouso Alegre
+José Gonçalves de Minas:Value: José Gonçalves de Minas, Santa Vitória:Value: Santa Vitória
+Desterro do Melo:Value: Desterro do Melo
+Nova Módica:Value: Nova Módica
+Lagoa Dourada:Value: Lagoa Dourada
+Frei Lagonegro:Value: Frei Lagonegro, Tupaciguara:Value: Tupaciguara
+Carvalhópolis:Value: Carvalhópolis
+São Tiago:Value: São Tiago
+Jaboticatubas:Value: Jaboticatubas
+Monsenhor Paulo:Value: Monsenhor Paulo, Tocos do Moji:Value: Tocos do Moji
+Rio Paranaíba:Value: Rio Paranaíba
+Capinópolis:Value: Capinópolis
+Araçuaí:Value: Araçuaí
+Monte Formoso:Value: Monte Formoso
+Conceição dos Ouros:Value: Conceição dos Ouros, Córrego Novo:Value: Córrego Novo
+Indianópolis:Value: Indianópolis
