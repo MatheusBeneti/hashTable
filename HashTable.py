@@ -8,7 +8,7 @@ class HashTable:
         positionToAllocate = self._getPositionToAllocate(hashedKey)
         self._allocate(positionToAllocate, key, value)
 
-    def insertWithExtration(self, key, value):
+    def insertWithExtraction(self, key, value):
         hashedKey = self._digitExtractionHash(key)
         positionToAllocate = self._getPositionToAllocate(hashedKey)
         self._allocate(positionToAllocate, key, value)
@@ -73,3 +73,7 @@ class HashTable:
                     counts[num_cities] += 1
 
         return counts
+
+    def reset(self):
+        self._table = [None] * 853
+        self._numberOfCollisions = 0
