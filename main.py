@@ -12,12 +12,12 @@ def getFileData(filename):
     return cities
 
 def insertRandom(cities, hashTable, method):
-    if(method == "division"):
+    if(method == "extraction"):
         for city in cities:
             if(random.randint(0,1) == 0):
                 hashTable.insertWithExtraction(city, "Value: " + city)
         return hashTable.getNumberOfCollisions(), hashTable.countAddresssWithCities()
-    if(method == "extraction"):
+    if(method == "division"):
         for city in cities:
             if(random.randint(0,1) == 0):
                 hashTable.insertWithDivision(city, "Value: " + city)
@@ -50,7 +50,7 @@ hashTable = HashTable()
 
 listCollisions = []
 listNumberOfAssociatedCities = [] 
-interations = 500
+interations = 1000
 
 for i in range(interations):
     collisions, numberofAssociatedCities = insertRandom(cities, hashTable, "division")
