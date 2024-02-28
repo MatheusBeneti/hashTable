@@ -1,6 +1,6 @@
 class HashTable:
     def __init__(self):
-        self._table = [None] * 853
+        self._table = [None] * 0
         self._numberOfCollisions = 0
 
     def insertWithDivision(self, key, value):
@@ -65,7 +65,9 @@ class HashTable:
         counts = [0] * 11  # Inicializa uma lista de contagens para 11 categorias (0 a 10+)
         
         for entry in self._table:
-            if entry is not None:
+            if entry is None:
+                counts[0] += 1  # Incrementa a contagem para endereços com valor None
+            else:
                 num_cities = len(entry)
                 if num_cities >= 10:
                     counts[10] += 1
@@ -74,6 +76,7 @@ class HashTable:
 
         return counts
 
-    def reset(self):
-        self._table = [None] * 853
+
+    def reset(self, tableSize):
+        self._table = [None] * tableSize
         self._numberOfCollisions = 0
